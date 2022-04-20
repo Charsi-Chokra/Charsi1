@@ -1,0 +1,2 @@
+import Charsi
+Charsi.reg()
